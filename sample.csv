@@ -1,63 +1,85 @@
 name,ring,quadrant,isNew,description
-SonarQube,Adopt,Tools,TRUE,https://www.sonarqube.org/
-CDN,Adopt,Techniques,TRUE,https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
-Git Flow,Adopt,Techniques,TRUE,https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-Jenkins,Adopt,Tools,TRUE,https://www.jenkins.io/
-Server Side Rendering,Adopt,Techniques,TRUE,https://www.heavy.ai/technical-glossary/server-side-rendering
-Google Lighthouse,Adopt,Tools,TRUE,https://github.com/GoogleChrome/lighthouse
-Liferay,Adopt,Platforms,TRUE,https://www.liferay.com/pt/home
-React-testing-library,Adopt,languages-and-frameworks,TRUE,https://testing-library.com/docs/react-testing-library/intro/
-Accessibility,Adopt,Techniques,TRUE,https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
-React,Adopt,languages-and-frameworks,TRUE,https://reactjs.org/
-BEM (CSS),Adopt,Techniques,TRUE,https://en.bem.info/
-OWASP,Adopt,Tools,TRUE,https://owasp.org/www-project-top-ten/
-Typescript,Adopt,languages-and-frameworks,TRUE,https://www.typescriptlang.org/
-Javascript,Adopt,languages-and-frameworks,TRUE,https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Jest,Adopt,Tools,TRUE,https://jestjs.io/
-SEO,Adopt,Techniques,TRUE,https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-REST,Adopt,Techniques,TRUE,https://restfulapi.net/
-Apache,Adopt,Tools,TRUE,https://www.apache.org/
-IntelliJ IDEA,Adopt,Tools,TRUE,https://www.jetbrains.com/idea/
-Visual Studio Code,Adopt,Tools,TRUE,https://code.visualstudio.com/
-Nexus,Adopt,Tools,TRUE,https://www.sonatype.com/products/nexus-repository
-Docker,Adopt,Tools,TRUE,https://www.docker.com/
-Postman,Adopt,Tools,TRUE,https://www.postman.com/
-GraphQL,Adopt,languages-and-frameworks,TRUE,https://graphql.org/
-Java,Adopt,languages-and-frameworks,TRUE,https://www.java.com/
-Spring,Adopt,languages-and-frameworks,TRUE,https://spring.io/
-Adobe Target,Adopt,Platforms,TRUE,https://business.adobe.com/uk/products/target/adobe-target.html
-Adobe Analytics,Adopt,Platforms,TRUE,https://business.adobe.com/uk/products/analytics/adobe-analytics.html
-Adobe Experience Manager,Adopt,Platforms,TRUE,https://business.adobe.com/uk/products/experience-manager/sites/aem-sites.html
-Google Analytics,Adopt,Platforms,TRUE,https://analytics.google.com/analytics/web/provision/#/provision
-Google Optimize,Adopt,Platforms,TRUE,https://optimize.google.com/optimize/home/
-NextJS,Trial,languages-and-frameworks,TRUE,https://nextjs.org/
-Adobe Campaign,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/campaign/adobe-campaign.html
-Adobe Customer Journey Analytics,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/experience-platform/customer-journey-analytics.html
-Adobe Journey Orchestration,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/experience-platform/journey-orchestration.html
-Adobe Audience Manager,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/audience-manager/adobe-audience-manager.html
-Adobe Intelligent Services,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/experience-platform/intelligent-services.html
-Adobe Offer Decisioning,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/experience-platform/offer-decisioning.html
-Adobe Journey Optimizer,Assess,Platforms,TRUE,https://business.adobe.com/uk/products/journey-optimizer/adobe-journey-optimizer.html
-Adobe Real-Time CDP (Customer Data Platform),Assess,Platforms,TRUE,https://business.adobe.com/uk/products/real-time-customer-data-platform/cdp-definitive-hub.html
-Contenful,Assess,Platforms,TRUE,https://www.contentful.com/
-Varnish,Assess,Tools,TRUE,https://www.varnish-software.com/emea/
-AngularJS,Hold,languages-and-frameworks,TRUE,https://angularjs.org/
-Angular,Hold,languages-and-frameworks,TRUE,https://angular.io/
-Vue,Hold,languages-and-frameworks,TRUE,https://vuejs.org/
-SOAP,Hold,Techniques,TRUE,https://www.w3schools.com/xml/xml_soap.asp
-OWCS,Hold,Platforms,TRUE,https://www.oracle.com/pt/content-management/webcenter-sites/
-SoapUI,Hold,Tools,TRUE,https://www.soapui.org/
-npm,Adopt,Tools,TRUE,https://www.npmjs.com/
-Node.js,Adopt,languages-and-frameworks,TRUE,https://nodejs.org/en/
-Babel,Adopt,Tools,TRUE,https://babeljs.io/
-HTL (Sightly),Adopt,languages-and-frameworks,TRUE,https://experienceleague.adobe.com/docs/experience-manager-htl/content/getting-started.html
-Axios,Adopt,languages-and-frameworks,TRUE,https://axios-http.com/docs/intro
-Yarn,Hold,Tools,TRUE,https://yarnpkg.com/
-Sitecore,Assess,Platforms,TRUE,https://www.sitecore.com/
-Drupal,Assess,Platforms,TRUE,https://www.drupal.org/
-Sling,Hold,Platforms,TRUE,https://sling.apache.org/
-OSGi,Adopt,languages-and-frameworks,TRUE,https://www.osgi.org/
-Hibernate,Adopt,languages-and-frameworks,TRUE,https://hibernate.org/
-TESTE,Adopt,Tools,TRUE,"<p><strong>blip name</strong></p>
-<p>description</p>
-<p>more details link</p>"
+Split.io,Trial,Tools,TRUE,<p>Fitness functions introduced</p>
+terraform,Adopt,Tools,TRUE,
+tfsec,Assess,Tools,TRUE,
+Akhq.io,Assess,Tools,TRUE,
+kube-score,Assess,Tools,TRUE,
+Gremlin,Assess,Tools,TRUE,
+Chaos Mesh,Assess,Tools,TRUE,
+Litmus,Assess,Tools,TRUE,
+Chaos Monkey,Assess,Tools,TRUE,
+Chaos Blade,Assess,Tools,TRUE,
+Jib,Assess,Tools,TRUE,
+Docker,Adopt,Tools,TRUE,
+Docker Desktop,Adopt,Tools,TRUE,
+Rancher,Trial,Tools,TRUE,
+podman,Hold,Tools,TRUE,
+Postman,Adopt,Tools,TRUE,
+newman,Adopt,Tools,TRUE,
+IntelliJ,Adopt,Tools,TRUE,
+Eclipse,Adopt,Tools,TRUE,
+Splunk,Trial,Tools,TRUE,
+Datadog,Assess,Tools,TRUE,
+SonarQube,Adopt,Tools,TRUE,
+NewRelic,Assess,Tools,TRUE,
+C4 PlantUML,Trial,Tools,TRUE,
+Snyk,Assess,Tools,TRUE,
+Dependabot,Assess,Tools,TRUE,
+Horusec,Assess,Tools,TRUE,
+Mend/WhiteSource,Adopt,Tools,TRUE,
+stormforge.io,Trial,Tools,TRUE,
+Helm,Adopt,Tools,TRUE,
+Nexus,Adopt,Tools,TRUE,
+SOAP,Hold,Techniques,TRUE,
+Tensoflow,Assess,Platforms,TRUE,
+Kubernetes,Adopt,Platforms,TRUE,
+OpenShift,Adopt,Platforms,TRUE,
+Cloudera Data Platform,Trial,Platforms,TRUE,
+Kafka,Adopt,Platforms,TRUE,
+Amazon MSK,Trial,Platforms,TRUE,
+RabittMQ,Adopt,Platforms,TRUE,
+Amazon ActiveMQ,Trial,Platforms,TRUE,
+Jenkins,Adopt,Platforms,TRUE,
+Gitlab CI/CD,Adopt,Platforms,TRUE,
+Bamboo,Assess,Platforms,TRUE,
+Azure DevOps,Assess,Platforms,TRUE,
+Java,Adopt,languages-and-frameworks,TRUE,
+Kotlin,Trial,languages-and-frameworks,TRUE,
+Scala,Assess,languages-and-frameworks,TRUE,
+Groovy,Trial,languages-and-frameworks,TRUE,
+Clojure,Assess,languages-and-frameworks,TRUE,
+NodeJS,Trial,languages-and-frameworks,TRUE,
+NestJS,Trial,languages-and-frameworks,TRUE,
+Python,Adopt,languages-and-frameworks,TRUE,
+Django,Trial,languages-and-frameworks,TRUE,
+Pytorch,Assess,languages-and-frameworks,TRUE,
+Flask,Trial,languages-and-frameworks,TRUE,
+Meteor,Trial,languages-and-frameworks,TRUE,
+PHP,Assess,languages-and-frameworks,TRUE,
+Go,Trial,languages-and-frameworks,TRUE,
+Dart,Assess,languages-and-frameworks,TRUE,
+Phoenix,Assess,languages-and-frameworks,TRUE,
+CakePHP,Hold,languages-and-frameworks,TRUE,
+Neuroph,Assess,languages-and-frameworks,TRUE,
+Spring,Adopt,languages-and-frameworks,TRUE,
+Spring WebFlux,Assess,languages-and-frameworks,TRUE,
+Micronaut,Assess,languages-and-frameworks,TRUE,
+Istio,Assess,languages-and-frameworks,TRUE,
+Testcontainers,Assess,languages-and-frameworks,TRUE,
+Axon Saga,Hold,languages-and-frameworks,TRUE,
+OSGI,Hold,languages-and-frameworks,TRUE,
+Apache Spark,Assess,languages-and-frameworks,TRUE,
+Quarkus,Adopt,languages-and-frameworks,TRUE,
+MicroProfile,Trial,languages-and-frameworks,TRUE,
+Resilience4J,Assess,languages-and-frameworks,TRUE,
+Springboot,Adopt,languages-and-frameworks,TRUE,
+Implementation Plan,Trial,Techniques,TRUE,
+AWS SQS,Trial,Platforms,TRUE,
+AWS SNS,Trial,Platforms,TRUE,
+Javascript,Adopt,languages-and-frameworks,TRUE,
+Documentation in Repo,Adopt,Techniques,TRUE,
+Pull / Merge Request,Adopt,Techniques,TRUE,
+Peer Review,Adopt,Techniques,TRUE,
+Microservices,Adopt,Techniques,TRUE,
+TDD,Trial,Techniques,TRUE,
+DDD,Adopt,Techniques,TRUE,
